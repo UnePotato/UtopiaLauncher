@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "utopialauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "UtopiaLauncher",
+  "description": "Launcher minecraft pvp/faction moddé",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
